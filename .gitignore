@@ -11,4 +11,5 @@ target/*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+!maven-wrapper.jar
 _site/
