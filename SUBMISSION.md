@@ -8,7 +8,7 @@ John Diatte 1818323
 ![Unsuccessful Build](figures/unsuccessful-build.PNG)
 ![Readme Failed Build](figures/readme-fail.PNG)
 ![Fixed POM Coordinates](figures/pom-fixed.PNG)
-![Fixed Successful Build](figures/forked-repo.PNG)
-![Readme Successful Build](figures/forked-repo.PNG)
+![Fixed Successful Build](figures/fixed-build.PNG)
+![Readme Successful Build](figures/readme-fixed.PNG)
 
 
